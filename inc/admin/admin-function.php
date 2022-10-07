@@ -119,8 +119,6 @@ function load_admin_style(){
 add_action( 'admin_footer', 'lang' );
 function lang(){
 
-	echo '1111111111';
-
 	?>
 		<script>
 
