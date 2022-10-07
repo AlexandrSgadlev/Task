@@ -1,4 +1,4 @@
-<h1>Wordpress (drag and drop theme settings)</h1>
+<h1>Wordpress theme(drag and drop theme settings)</h1>
 
 <p><span>Switching between sections using ajax.
 </br> <b>\inc\admin\dashboard-settings\template-options</b>
