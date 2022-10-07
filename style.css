@@ -1,0 +1,97 @@
+@charset "UTF-8";
+/*
+Theme Name: Main Them
+Theme URI: https://wordpress.org/themes/twentynineteen/
+Author: Alex Sgadlev
+Author URI: https://wordpress.org/
+Description: Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.
+Requires at least: WordPress 5.0.0
+Version: 1.2
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: main_theme
+Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready
+
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Variables
+# Normalize
+# Typography
+	## Headings
+	## Copy
+# Elements
+	## Lists
+	## Tables
+# Forms
+	## Buttons
+	## Fields
+# Navigation
+	## Links
+	## Menus
+	## Next & Previous
+# Accessibility
+# Alignments
+# Clearings
+# Layout
+# Widgets
+# Content
+	## Archives
+	## Posts and pages
+	## Comments
+# Blocks
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+
+
+
+.lts-section-layout{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #e3e3e3;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 0px;
+    margin-bottom: 40px;
+}
+
+.lts-builders-area-for-columns .lts-field-column.col-1{
+    max-width: calc(8.333333% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-2{
+    max-width: calc(16.666667% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-3{
+    max-width: calc(25% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-4{
+    max-width: calc(33.333333% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-5{
+	max-width: calc(41.666667% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-6{
+    max-width: calc(50% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-7{
+    max-width: calc(58.333333% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-8{
+    max-width: calc(66.666667% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-9{
+    max-width: calc(75% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-10{
+    max-width: calc(83.333333% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-11{
+    max-width: calc(91.666667% - 10px);
+}
+.lts-builders-area-for-columns .lts-field-column.col-12{
+    max-width: calc(100% - 10px);
+}
