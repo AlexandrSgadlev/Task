@@ -17,4 +17,4 @@ Using js drag and drop changes header and footer settings.</br>
 <b>(theme_name)_header_option / (theme_name)_footer_option</b></span></p>
 
 
-![Front page]([https://github.com/AlexandrSgadlev/Wordpress-drag-and-drop-theme-settings/blob/maater/screen-1.png])
+![Front page]([https://github.com/AlexandrSgadlev/Wordpress-drag-and-drop-theme-settings/blob/master/screen-1.png])
